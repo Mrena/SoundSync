@@ -1,0 +1,2 @@
+# SoundSync
+It is an app which will allow multiple users to play sounds into their microphone and have those sounds play on all connected speakers at the same time, including everyone‟s sounds. This app can be used by band members to practice a song while in different locations. Other users will be able to listen in on the rehearsal of their favorite bands but bands will be able to make their rehearsal a private one.
